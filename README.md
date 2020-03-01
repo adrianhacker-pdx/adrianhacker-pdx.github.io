@@ -1,7 +1,6 @@
 # adrianhacker-pdx.github.io
 
-## Welcome to my writing portfolio.  These are links to pages online that were written by me as contributions to projects
-or articles that I have written.  Enjoy.
+## Welcome to my writing portfolio.  These are links to pages online that were written by me as contributions to projects or articles that I have written.  Enjoy.
 
 Ethhub.io: Stateless Clients
 https://docs.ethhub.io/ethereum-roadmap/ethereum-2.0/stateless-clients/

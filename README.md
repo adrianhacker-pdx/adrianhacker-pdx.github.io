@@ -16,6 +16,8 @@
 [Vyper Smart Contract Programming Language Documentation:  Compiler Exceptions with Examples] 
 (https://vyper.readthedocs.io/en/latest/compiler-exceptions.html)
 
+[Added the Documentation for Generating an Android APK](https://github.com/adrianhacker-pdx/android)
+
 [A Deep Dive into the Ethereum Virtual Machine (EVM) - Part 3: Execution Model of the EVM]
 (https://kauri.io/a-deep-dive-into-the-ethereum-virtual-machine-evm/ded63988153147348d7c9617b09135af/a)
 

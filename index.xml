@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://adrianhacker.us/index.xml" rel="self" type="application/atom+xml" /><link href="https://adrianhacker.us/" rel="alternate" type="text/html" /><updated>2023-11-17T14:56:47-08:00</updated><id>https://adrianhacker.us/index.xml</id><title type="html">Adrian does A.I.</title><subtitle></subtitle><entry><title type="html">How to Get the Most Out of this Website</title><link href="https://adrianhacker.us/inaugural-blog" rel="alternate" type="text/html" title="How to Get the Most Out of this Website" /><published>2023-11-17T00:00:00-08:00</published><updated>2023-11-17T00:00:00-08:00</updated><id>https://adrianhacker.us/inaugural-blog</id><content type="html" xml:base="https://adrianhacker.us/inaugural-blog"><![CDATA[<p>Welcome to my web presence and the inaugural blog entry. For the time being, this site is primarily a professional portfolio. I am pursuing the self-taught software engineer path because I have contributed significantly to the semiconductor industry, and now it's time for something new. Additionally, A.I. is extremely fascinating to me. I see numerous potential applications; A.I. could truly be the gateway to improving the quality of life for many.</p>
+
+<p>A.I. also has the potential to lead humanity in the wrong direction with developments like deepfakes and the ability to spread false messaging convincingly. Could A.I. intersect with blockchain technology to create a public ledger of A.I. media creations? That's an intriguing idea worth exploring further.</p>
+
+<p>In the portfolio section, you can view some of my A.I.-generated art or interact with live-hosted versions of various programming exercises I've completed. In the coming days, I'll be adding a chatbot to this site based on ChatGPT, capable of answering any questions you might have. I'm considering training it with specific knowledge about myself so users can ask various questions about me and receive accurate answers. Time will tell.</p>
+
+<p>The blog section will feature important updates related to technology, tutorials, and other mostly professional topics. I encourage you to use the comment area but please keep it respectful.</p>
+
+<p>These are the key subjects in my self-taught journey, for now:</p>
+<ul>
+    <li>HTML5 / CSS</li>
+    <li>JavaScript</li>
+    <li>Node JS</li>
+    <li>React</li>
+    <li>Docker</li>
+    <li>Amazon Web Services</li>
+    <li>Artificial Intelligence</li>
+    <li>Some Python for web scraping and data visualization</li>
+</ul>
+
+<p>Feel free to reach out if you're moved to do so, interested in hiring me, seeking freelance services, or just generally curious about me.</p>
+
+<p>Cheers,<br />
+Adrian</p>]]></content><author><name>Adrian Hacker</name></author><category term="Tutorial" /><category term="tutorial" /><summary type="html"><![CDATA[Welcome to my web presence and the inaugural blog entry. For the time being, this site is primarily a professional portfolio. I am pursuing the self-taught software engineer path because I have contributed significantly to the semiconductor industry, and now it's time for something new. Additionally, A.I. is extremely fascinating to me. I see numerous potential applications; A.I. could truly be the gateway to improving the quality of life for many.]]></summary></entry></feed>

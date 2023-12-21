@@ -1,4 +1,87 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://localhost:4000/index.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-20T18:53:54-08:00</updated><id>http://localhost:4000/index.xml</id><title type="html">Adrian does A.I.</title><subtitle>Software, IT, Hardware, Networking, A.I. Chat Bot, A.I. Automation, Professional Portfolio, Web Development, Machine Learning, Web Scraping, Data Collection in Portland, Oregon or Remote - Adrian Hacker</subtitle><entry><title type="html">Understanding Blockchain Basics: How Does It Work?</title><link href="http://localhost:4000/blockchain-explainer" rel="alternate" type="text/html" title="Understanding Blockchain Basics: How Does It Work?" /><published>2023-11-19T00:00:00-08:00</published><updated>2023-11-19T00:00:00-08:00</updated><id>http://localhost:4000/blockchain-explainer</id><content type="html" xml:base="http://localhost:4000/blockchain-explainer"><![CDATA[<h1 id="understanding-blockchain-basics-how-does-it-work">Understanding Blockchain Basics: How Does It Work?</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://adrianhacker.us/index.xml" rel="self" type="application/atom+xml" /><link href="https://adrianhacker.us/" rel="alternate" type="text/html" /><updated>2023-12-21T00:57:31-08:00</updated><id>https://adrianhacker.us/index.xml</id><title type="html">Adrian does A.I.</title><subtitle>Software, IT, Hardware, Networking, A.I. Chat Bot, A.I. Automation, Professional Portfolio, Web Development, Machine Learning, Web Scraping, Data Collection in Portland, Oregon or Remote - Adrian Hacker</subtitle><entry><title type="html">DIY Smart Home and Cloud Storage</title><link href="https://adrianhacker.us/self-hosting" rel="alternate" type="text/html" title="DIY Smart Home and Cloud Storage" /><published>2023-12-15T00:00:00-08:00</published><updated>2023-12-15T00:00:00-08:00</updated><id>https://adrianhacker.us/self-hosting</id><content type="html" xml:base="https://adrianhacker.us/self-hosting"><![CDATA[<h2 id="why-even-bother-with-your-own-cloud">Why even bother with your own cloud?</h2>
+<p>Smart home devices and the Internet of Things (IoT) are revolutionizing our daily lives. Commands like “Alexa, do this…” and “OK Google, do that” have become commonplace, managing everything from lighting to thermostats and cameras. However, these connected devices often lack regular software updates – a fact that makes them prime targets for attackers looking to infiltrate home networks. Moreover, with devices like Alexa always listening and services like Gmail limiting storage unless you subscribe for more, there’s a growing concern about privacy and data management. This has led me to decide to convert my online presence entirely to self-hosted solutions.</p>
+
+<h2 id="risky-devices">Risky Devices</h2>
+<p>The University of Texas at San Antonio has <a href="https://cias.utsa.edu/hackers-can-hijack-your-home-with-these-10-smart-devices/">Identified 10 smart devices</a> that put your home network at risk:</p>
+
+<ul>
+  <li>Wireless Laptops</li>
+  <li>Online Gaming Systems</li>
+  <li>Webcams</li>
+  <li>Home Wireless Network / Router</li>
+  <li>Smart Lightbulbs</li>
+  <li>Smart TV’s</li>
+  <li>Coffee Makers</li>
+  <li>Smart Phones</li>
+  <li>Smart Refrigerators</li>
+  <li>Portable Radios</li>
+</ul>
+
+<h2 id="signs-of-a-hacked-home-network">Signs of a Hacked Home Network</h2>
+<p>I have been hacked one time, but it did not affect my entire network and it was really my fault because I was trying to install shady pirated software that was allegedly jail broken.  I got what I deserved.  I have been fortunate enough to avoid an entire hacked home network, but Norton identified ten signs that <a href="https://us.norton.com/blog/privacy/how-to-tell-if-someone-hacked-your-router">your network could be hacked:</a></p>
+
+<ul>
+  <li>Sudden inability to login to your routers default admin</li>
+  <li>Slow internet speeds</li>
+  <li>Browser redirects</li>
+  <li>Suspicious network activity</li>
+  <li>Unfamiliar software downloads</li>
+  <li>Session hijacking</li>
+  <li>Ransomeware messages</li>
+  <li>Fake antivirus notifications</li>
+  <li>Increase in pop-up advertisements</li>
+  <li>Alerts from your internet provider</li>
+</ul>
+
+<p>If you are a Windows user, this does not mean sit and look at your processes and programs that are running.  That is always enough to sketch a poor soul out, and that is because there are so many background things running.  If in doubt, Google it.</p>
+
+<h2 id="the-promise-of-enhanced-privacy-and-control">The Promise of Enhanced Privacy and Control</h2>
+<p>In contrast to mainstream services, self-hosting offers unparalleled privacy. By managing your data on a private network, you significantly reduce the risk of external breaches and surveillance. This approach not only protects your information from unauthorized access but also keeps it away from the prying eyes of large corporations.</p>
+
+<h2 id="the-sovereignty-of-your-data">The Sovereignty of Your Data</h2>
+<p>With self-hosting, your data remains under your control, subject only to your country’s laws. This is in stark contrast to storing data on servers across borders, where it may be subject to foreign surveillance and regulations. This level of data sovereignty is particularly crucial in a world where digital boundaries are increasingly blurred.</p>
+
+<h2 id="steering-clear-of-subscription-fatigue">Steering Clear of Subscription Fatigue</h2>
+<p>The growing trend of subscription-based models for cloud storage and smart home features can be financially draining. Self-hosting, on the other hand, involves a one-time setup cost, potentially saving money in the long term by eliminating recurring fees.</p>
+
+<h2 id="customization-at-your-fingertips">Customization at Your Fingertips</h2>
+<p>One of the most significant advantages of self-hosting is the ability to tailor your systems exactly to your needs. Unlike being restricted to the features and integrations of mainstream providers, self-hosting allows for a more personalized and independent setup.</p>
+
+<h2 id="a-fortified-digital-fortress">A Fortified Digital Fortress</h2>
+<p>Mainstream cloud services and IoT devices are often targets for cybercriminals. By self-hosting, your system becomes less attractive to hackers. Moreover, you have the freedom to implement robust security measures that align with your comfort level, further fortifying your digital domain.</p>
+
+<h2 id="always-accessible-internet-or-not">Always Accessible, Internet or Not</h2>
+<p>Another notable benefit of self-hosting is the ability to access your data locally, without an internet connection. This ensures that you have uninterrupted access to your information, even during internet outages, a feature often overlooked in mainstream cloud services.</p>
+
+<h2 id="empowerment-through-learning">Empowerment Through Learning</h2>
+<p>Embarking on the journey of setting up and maintaining a self-hosted system is not only about gaining control over your data; it’s also an opportunity for substantial skill development. It immerses you in the realms of networking, cybersecurity, and system administration, enhancing your technical acumen.</p>
+
+<h2 id="embracing-the-challenges">Embracing the Challenges</h2>
+<p>Despite its many advantages, self-hosting is not without its challenges. It requires a certain level of technical expertise, a commitment to ongoing maintenance, and an upfront investment in time and resources. However, for those who value their digital privacy and autonomy, these challenges are a small price to pay for the peace of mind and control that self-hosting provides.</p>
+
+<h2 id="the-phases">The Phases</h2>
+
+<p>This process will be divided into certain phases and I will keep a badge on my site that has the quick and dirty about where I am at with this.  The phases will be:</p>
+
+<ul>
+  <li>
+    <p>Planning:  A written plan regarding the hardware and software to be used.</p>
+  </li>
+  <li>
+    <p>Construction:  Building and installing the decided solutions.</p>
+  </li>
+  <li>
+    <p>Evaluation:  Evaluating the build to provide some reviews and recommendations for varying features and skill levels.</p>
+  </li>
+  <li>
+    <p>Report: Final post of all details in this home server iteration.</p>
+  </li>
+</ul>
+
+<p>A server must be set up, then the smart devices must be set up.  I will also have updates as the process goes.  This is being done as finance permits, so it might not be overnight.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>In conclusion, transitioning to self-hosted cloud storage and smart home devices is a powerful step towards reclaiming your digital privacy and independence. While it demands effort and technical know-how, the benefits of enhanced privacy, data sovereignty, and personalization make it a compelling choice for those concerned about their digital footprint in the increasingly interconnected world of IoT.</p>]]></content><author><name>Adrian Hacker</name></author><category term="Privacy" /><category term="cloud," /><category term="self-hosted," /><category term="storage," /><category term="smart" /><category term="home," /><category term="alexa," /><category term="google" /><summary type="html"><![CDATA[Why even bother with your own cloud? Smart home devices and the Internet of Things (IoT) are revolutionizing our daily lives. Commands like “Alexa, do this…” and “OK Google, do that” have become commonplace, managing everything from lighting to thermostats and cameras. However, these connected devices often lack regular software updates – a fact that makes them prime targets for attackers looking to infiltrate home networks. Moreover, with devices like Alexa always listening and services like Gmail limiting storage unless you subscribe for more, there’s a growing concern about privacy and data management. This has led me to decide to convert my online presence entirely to self-hosted solutions.]]></summary></entry><entry><title type="html">Understanding Blockchain Basics: How Does It Work?</title><link href="https://adrianhacker.us/blockchain-explainer" rel="alternate" type="text/html" title="Understanding Blockchain Basics: How Does It Work?" /><published>2023-11-19T00:00:00-08:00</published><updated>2023-11-19T00:00:00-08:00</updated><id>https://adrianhacker.us/blockchain-explainer</id><content type="html" xml:base="https://adrianhacker.us/blockchain-explainer"><![CDATA[<h1 id="understanding-blockchain-basics-how-does-it-work">Understanding Blockchain Basics: How Does It Work?</h1>
 
 <p><img src="https://images.unsplash.com/photo-1639322537228-f710d846310a?auto=format%2Ccompress&amp;fm=webp&amp;fit=crop&amp;crop=faces%2Cedges&amp;w=1200&amp;h=675&amp;q=60&amp;cs=tinysrgb" alt="Understanding Blockchain Basics: How Does It Work?" /></p>
 
@@ -92,12 +175,12 @@
 
 <p>As blockchain continues to evolve and overcome challenges such as scalability and energy consumption, its future prospects are promising. Industries like healthcare and voting systems stand to benefit greatly from blockchain’s ability to improve data management, enhance security, and foster trust.</p>
 
-<p>Embracing blockchain technology means embracing a future where decentralized systems redefine trust, enable peer-to-peer interactions, and drive innovation across multiple domains. By harnessing the power of blockchain, we pave the way for a more secure, transparent, and efficient digital ecosystem.</p>]]></content><author><name>Adrian Hacker</name></author><category term="Blockchain" /><category term="blockchain," /><category term="cryptocurrency," /><category term="cryptography," /><category term="crypto," /><category term="block" /><summary type="html"><![CDATA[Understanding Blockchain Basics: How Does It Work?]]></summary></entry><entry><title type="html">About Firing Sam Altman from OpenAI</title><link href="http://localhost:4000/sam-altman" rel="alternate" type="text/html" title="About Firing Sam Altman from OpenAI" /><published>2023-11-18T00:00:00-08:00</published><updated>2023-11-18T00:00:00-08:00</updated><id>http://localhost:4000/sam-altman</id><content type="html" xml:base="http://localhost:4000/sam-altman"><![CDATA[<h1>About Firing Sam Altman from OpenAI</h1>
+<p>Embracing blockchain technology means embracing a future where decentralized systems redefine trust, enable peer-to-peer interactions, and drive innovation across multiple domains. By harnessing the power of blockchain, we pave the way for a more secure, transparent, and efficient digital ecosystem.</p>]]></content><author><name>Adrian Hacker</name></author><category term="Blockchain" /><category term="blockchain," /><category term="cryptocurrency," /><category term="cryptography," /><category term="crypto," /><category term="block" /><summary type="html"><![CDATA[Understanding Blockchain Basics: How Does It Work?]]></summary></entry><entry><title type="html">About Firing Sam Altman from OpenAI</title><link href="https://adrianhacker.us/sam-altman" rel="alternate" type="text/html" title="About Firing Sam Altman from OpenAI" /><published>2023-11-18T00:00:00-08:00</published><updated>2023-11-18T00:00:00-08:00</updated><id>https://adrianhacker.us/sam-altman</id><content type="html" xml:base="https://adrianhacker.us/sam-altman"><![CDATA[<h1>About Firing Sam Altman from OpenAI</h1>
 <p>Dear "The Board of Directors at OpenAI",</p>
 <p>There are only two CEO's in the entire world that I am familiar with.  The first one happens to run a car company, a space company, and X (formerly Twitter).</p>
 <p>The second one is Sam Altman.  Practically the face of A.I. for most people.  Did no one ask chatGPT's opinion about this one, because I think the decision would have gone differently if that were the case.</p>
 <p>Oopsies on you.</p>
-<p>Love, Adrian</p>]]></content><author><name>Adrian Hacker</name></author><category term="Artificial Intelligence" /><category term="a.i.," /><category term="sam" /><category term="altman," /><category term="OpenAI" /><summary type="html"><![CDATA[About Firing Sam Altman from OpenAI Dear "The Board of Directors at OpenAI", There are only two CEO's in the entire world that I am familiar with. The first one happens to run a car company, a space company, and X (formerly Twitter). The second one is Sam Altman. Practically the face of A.I. for most people. Did no one ask chatGPT's opinion about this one, because I think the decision would have gone differently if that were the case. Oopsies on you. Love, Adrian]]></summary></entry><entry><title type="html">Why You Don’t Have to Fear A.I.</title><link href="http://localhost:4000/wanda-wont-ai" rel="alternate" type="text/html" title="Why You Don’t Have to Fear A.I." /><published>2023-11-18T00:00:00-08:00</published><updated>2023-11-18T00:00:00-08:00</updated><id>http://localhost:4000/wanda-wont-ai</id><content type="html" xml:base="http://localhost:4000/wanda-wont-ai"><![CDATA[<h1>Wanda Won't A.I.</h1>
+<p>Love, Adrian</p>]]></content><author><name>Adrian Hacker</name></author><category term="Artificial Intelligence" /><category term="a.i.," /><category term="sam" /><category term="altman," /><category term="OpenAI" /><summary type="html"><![CDATA[About Firing Sam Altman from OpenAI Dear "The Board of Directors at OpenAI", There are only two CEO's in the entire world that I am familiar with. The first one happens to run a car company, a space company, and X (formerly Twitter). The second one is Sam Altman. Practically the face of A.I. for most people. Did no one ask chatGPT's opinion about this one, because I think the decision would have gone differently if that were the case. Oopsies on you. Love, Adrian]]></summary></entry><entry><title type="html">Why You Don’t Have to Fear A.I.</title><link href="https://adrianhacker.us/wanda-wont-ai" rel="alternate" type="text/html" title="Why You Don’t Have to Fear A.I." /><published>2023-11-18T00:00:00-08:00</published><updated>2023-11-18T00:00:00-08:00</updated><id>https://adrianhacker.us/wanda-wont-ai</id><content type="html" xml:base="https://adrianhacker.us/wanda-wont-ai"><![CDATA[<h1>Wanda Won't A.I.</h1>
 <p>Unofficially, this blog post is titled "Wanda Won't A.I." and it refers to my beautiful calico kitty who, if she were a person, I know would loathe the idea of artificial intelligence. Just as the robot vacuum has evolved to scare Wanda more thoroughly, so too has technology evolved to make people frightened. Enter: Artificial Intelligence. Perhaps the Matrix or Terminator 2 are plausible scenarios on the horizon people are wondering about. No, both A.I. and the robot vacuum are just two different facets of technology that is much older than people realize. And equally as harmless (mostly). Some interesting parallels exist in history around general fears of new technology.</p>
 
 <h2>Some History of Technology and Fear</h2>
@@ -274,7 +357,7 @@ I just had Wanda read this article that I have written, and I can tell she is mu
 
 <p><a href="/portfolio-2">portfolio</a></p>
 
-<p><img src="/assets/images/bg/wandarug.jpg" alt="Wanda Relaxing In The Sun" /></p>]]></content><author><name>Adrian Hacker</name></author><category term="Artificial Intelligence" /><category term="a.i." /><summary type="html"><![CDATA[Wanda Won't A.I. Unofficially, this blog post is titled "Wanda Won't A.I." and it refers to my beautiful calico kitty who, if she were a person, I know would loathe the idea of artificial intelligence. Just as the robot vacuum has evolved to scare Wanda more thoroughly, so too has technology evolved to make people frightened. Enter: Artificial Intelligence. Perhaps the Matrix or Terminator 2 are plausible scenarios on the horizon people are wondering about. No, both A.I. and the robot vacuum are just two different facets of technology that is much older than people realize. And equally as harmless (mostly). Some interesting parallels exist in history around general fears of new technology.]]></summary></entry><entry><title type="html">How to Get the Most Out of this Website</title><link href="http://localhost:4000/inaugural-blog" rel="alternate" type="text/html" title="How to Get the Most Out of this Website" /><published>2023-11-17T00:00:00-08:00</published><updated>2023-11-17T00:00:00-08:00</updated><id>http://localhost:4000/inaugural-blog</id><content type="html" xml:base="http://localhost:4000/inaugural-blog"><![CDATA[<p>Welcome to my web presence and the inaugural blog entry. For the time being, this site is primarily a professional portfolio. I am pursuing the self-taught software engineer path because I have contributed significantly to the semiconductor industry, and now it's time for something new. Additionally, A.I. is extremely fascinating to me. I see numerous potential applications; A.I. could truly be the gateway to improving the quality of life for many.</p>
+<p><img src="/assets/images/bg/wandarug.jpg" alt="Wanda Relaxing In The Sun" /></p>]]></content><author><name>Adrian Hacker</name></author><category term="Artificial Intelligence" /><category term="a.i." /><summary type="html"><![CDATA[Wanda Won't A.I. Unofficially, this blog post is titled "Wanda Won't A.I." and it refers to my beautiful calico kitty who, if she were a person, I know would loathe the idea of artificial intelligence. Just as the robot vacuum has evolved to scare Wanda more thoroughly, so too has technology evolved to make people frightened. Enter: Artificial Intelligence. Perhaps the Matrix or Terminator 2 are plausible scenarios on the horizon people are wondering about. No, both A.I. and the robot vacuum are just two different facets of technology that is much older than people realize. And equally as harmless (mostly). Some interesting parallels exist in history around general fears of new technology.]]></summary></entry><entry><title type="html">How to Get the Most Out of this Website</title><link href="https://adrianhacker.us/inaugural-blog" rel="alternate" type="text/html" title="How to Get the Most Out of this Website" /><published>2023-11-17T00:00:00-08:00</published><updated>2023-11-17T00:00:00-08:00</updated><id>https://adrianhacker.us/inaugural-blog</id><content type="html" xml:base="https://adrianhacker.us/inaugural-blog"><![CDATA[<p>Welcome to my web presence and the inaugural blog entry. For the time being, this site is primarily a professional portfolio. I am pursuing the self-taught software engineer path because I have contributed significantly to the semiconductor industry, and now it's time for something new. Additionally, A.I. is extremely fascinating to me. I see numerous potential applications; A.I. could truly be the gateway to improving the quality of life for many.</p>
 
 <p>A.I. also has the potential to lead humanity in the wrong direction with developments like deepfakes and the ability to spread false messaging convincingly. Could A.I. intersect with blockchain technology to create a public ledger of A.I. media creations? That's an intriguing idea worth exploring further.</p>
 

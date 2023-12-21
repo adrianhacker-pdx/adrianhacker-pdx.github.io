@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "DIY Smart Home and Cloud Storage",
+      "category" : "",
+      "tags"     : "cloud,, self-hosted,, storage,, smart, home,, alexa,, google",
+      "url"      : "//self-hosting",
+      "date"     : "2023-12-15 00:00:00 -0800"
+    } ,
+  
+    {
       "title"    : "Understanding Blockchain Basics: How Does It Work?",
       "category" : "",
       "tags"     : "blockchain,, cryptocurrency,, cryptography,, crypto,, block",

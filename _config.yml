@@ -34,11 +34,11 @@ lines: # You can add HTML Tags in the Text
   - text: "i believed in math and science"
   - text: "and then magic found me"
   - text: "here is the evidence, my journey, and my mistakes"
-me-img: "/img/octowitch.png"
+#me-img: "/img/octowitch.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+ me-img: "https://github.com/adrianhacker-pdx.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.

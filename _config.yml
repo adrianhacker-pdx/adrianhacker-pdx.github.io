@@ -31,9 +31,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
-  - text: "If you believe, then it is real."
+  - text: "I believed in math and science...not magic"
+  - text: "and then magic found me"
+  - text: "this is my journey, may it help you on yours"
 me-img: "/img/labtocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
